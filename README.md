@@ -1,3 +1,3 @@
-# Tutorial
+# Intro to R Workshop
 
-This is my tutorial repository.
+Welcome to Week 1!
